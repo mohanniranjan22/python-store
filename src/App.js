@@ -26,7 +26,7 @@ function App() {
       {/* Store Name Header with Marquee */}
       <header className="header">
         <marquee behavior="scroll" direction="left" scrollamount="10">
-          <h1>Pythonlife Store</h1>
+          <h1> Python Store</h1>
         </marquee>
       </header>
 
